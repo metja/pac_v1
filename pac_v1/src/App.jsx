@@ -1,7 +1,8 @@
+import Header from "./components/Header/Header.jsx";
+
 function App() {
   return (
-    <div>
-      <h1>PAC</h1>
+    <div className="app">
     </div>
   );
 }
